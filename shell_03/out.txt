@@ -1,1 +1,21 @@
-ls: +: No such file or directory
+     1	at.sh
+     2	batch.sh
+     3	cmd.sh
+     4	crontab.sh
+     5	debug.sh
+     6	eval.sh
+     7	expr.sh
+     8	file.sh
+     9	head.sh
+    10	make.sh
+    11	out.txt
+    12	output.txt
+    13	printf.sh
+    14	read.sh
+    15	shopt.sh
+    16	sleep.sh
+    17	stderr.txt
+    18	stdout.txt
+    19	temp.txt
+    20	test.sh
+    21	wget.sh
